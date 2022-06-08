@@ -5,6 +5,8 @@ the goal is to sort in ascending order numbers into stack a
 
 to do so I had a few operations at my disposal
 
+when running the program it will print all operations needed to sort the stack
+
 I chose for implementing the radix sorting algorithm for which I used bitwise operations
 
 
